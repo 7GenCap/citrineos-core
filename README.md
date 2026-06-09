@@ -1,3 +1,5 @@
+> ⚠️ **Status: Queued for archive (2026-06 org consolidation).** No new work should land here. This fork is retained for historical reference and is archived in favour of upstream https://github.com/citrineos/citrineos-core. See the housekeeping issue for details.
+
 ![CitrineOS Logo](logo_white.png#gh-dark-mode-only)
 ![CitrineOS Logo](logo_black.png#gh-light-mode-only)
 
