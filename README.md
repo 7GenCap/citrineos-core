@@ -1,4 +1,5 @@
-> ⚠️ **Status: Queued for archive (2026-06 org consolidation).** No new work should land here. This fork is retained for historical reference and is archived in favour of upstream https://github.com/citrineos/citrineos-core. See the housekeeping issue for details.
+> ℹ️ **This is a fork maintained for reference.** Active development happens in our internal platform; issues/PRs here are not actively triaged.
+> _Review pass 2026-06-25: confirmed this is a public fork of the upstream open-source OCPP 2.0.1 EV charging station runtime; no 7GenCap-specific logic found in the repository._
 
 ![CitrineOS Logo](logo_white.png#gh-dark-mode-only)
 ![CitrineOS Logo](logo_black.png#gh-light-mode-only)
