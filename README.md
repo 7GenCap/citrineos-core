@@ -1,5 +1,5 @@
 > ℹ️ **This is a fork maintained for reference.** Active development happens in our internal platform; issues/PRs here are not actively triaged.
-> _Review pass 2026-06-25: confirmed this is a public fork of the upstream open-source OCPP 2.0.1 EV charging station runtime; no 7GenCap-specific logic found in the repository._
+> _Review pass 2026-06-25: confirmed this is a public fork of the upstream open-source OCPP 2.0.1 EV charging station runtime; no proprietary internal logic found; this is a clean upstream fork._
 
 ![CitrineOS Logo](logo_white.png#gh-dark-mode-only)
 ![CitrineOS Logo](logo_black.png#gh-light-mode-only)
