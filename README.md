@@ -1,8 +1,6 @@
-## Status - 2026-07-22 (7Gen monorepo consolidation)
+## Status - 2026-07-22
 
-REFERENCE FORK (CitrineOS CSMS, OCPP 1.6/2.0.1). Pristine fork, zero 7Gen modifications, nothing in the platform references it (verified 2026-07-21). Archive-ready once the fold plan gains its one-line manifest entry.
-
-Platform consolidation target: https://github.com/7GenCap/7gen (see docs/monorepo-fold-plan.md there). This banner is the durable reference for why this repo looks the way it does.
+Reference fork (CitrineOS CSMS, OCPP 1.6/2.0.1). This is a pristine fork of the upstream project with zero 7Gen modifications (verified 2026-07-21). It is kept for reference only. Issues and PRs here are not triaged. Active development happens in 7Gen's internal platform.
 
 ![CitrineOS Logo](logo_white.png#gh-dark-mode-only)
 ![CitrineOS Logo](logo_black.png#gh-light-mode-only)
